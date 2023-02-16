@@ -36,15 +36,15 @@ void Game::initSubmitBtn(){
 }
 
 void Game::initField(){
-	this->inputField = new gui::TextBox(10.0, 60.0, 300.0, 45.0, &this->font,  20, sf::Color::Black, sf::Color::White, 1);
+	this->inputField = new gui::TextBox(10.0, 60.0, 400.0, 90.0, &this->font,  30, sf::Color::Black, sf::Color::White, 1);
 
-	this->outputField = new gui::TextBox(10.0, 110.0, 300.0, 45.0, &this->font,  20, sf::Color::Black, sf::Color::White, 1);
+	this->outputField = new gui::TextBox(10.0, 160.0, 400.0, 90.0, &this->font, 30, sf::Color::Black, sf::Color::White, 1);
 }
 
 void Game::initDropDown(){
 	// Drop down
-	this->fromList = new gui::DropDownList(320.0, 60.0, 150.0, 45.0, this->font, this->data.getData(), 7, 143);
-	this->toList = new gui::DropDownList(320.0, 110.0, 150.0, 45.0, this->font, this->data.getData(), 7, 147);
+	this->fromList = new gui::DropDownList(420.0, 60.0, 300.0, 90.0, this->font, this->data.getData(), 28, 1);
+	this->toList = new gui::DropDownList(420.0, 160.0, 300.0, 90.0, this->font, this->data.getData(), 28, 0);
 }
 
 //constructors & destructors

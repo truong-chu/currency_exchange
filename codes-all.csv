@@ -1,4 +1,11 @@
 currency,unit_text
+VND,Dong
+USD,US Dollar
+EUR,Euro
+SGD,Singapore Dollar
+JPY,Yen
+CNY,Yuan Renminbi
+KRW,Won
 AED,UAE Dirham
 AFN,Afghani
 ALL,Lek
@@ -27,7 +34,6 @@ CAD,Canadian Dollar
 CDF,Congolese Franc
 CHF,Swiss Franc
 CLP,Chilean Peso Unidades de fomento
-CNY,Yuan Renminbi
 COP,Colombian Peso Unidad de Valor Real
 CRC,Costa Rican Colon
 CUP,Cuban Peso Peso Convertible
@@ -41,7 +47,6 @@ EEK,Kroon
 EGP,Egyptian Pound
 ERN,Nakfa
 ETB,Ethiopian Birr
-EUR,Euro
 FJD,Fiji Dollar
 FKP,Falkland Islands Pound
 GBP,Pound Sterling
@@ -66,13 +71,11 @@ IRR,Iranian Rial
 ISK,Iceland Krona
 JMD,Jamaican Dollar
 JOD,Jordanian Dinar
-JPY,Yen
 KES,Kenyan Shilling
 KGS,Som
 KHR,Riel
 KMF,Comoro Franc
 KPW,North Korean Won
-KRW,Won
 KWD,Kuwaiti Dinar
 KYD,Cayman Islands Dollar
 KZT,Tenge
@@ -122,7 +125,6 @@ SBD,Solomon Islands Dollar
 SCR,Seychelles Rupee
 SDG,Sudanese Pound
 SEK,Swedish Krona
-SGD,Singapore Dollar
 SHP,Saint Helena Pound
 SLL,Leone
 SOS,Somali Shilling
@@ -142,11 +144,9 @@ TWD,New Taiwan Dollar
 TZS,Tanzanian Shilling
 UAH,Hryvnia
 UGX,Uganda Shilling
-USD,US Dollar
 UYU,Peso Uruguayo Uruguay Peso en Unidades Indexadas
 UZS,Uzbekistan Sum
 VEF,Bolivar Fuerte
-VND,Dong
 VUV,Vatu
 WST,Tala
 XAF,CFA Franc BEAC

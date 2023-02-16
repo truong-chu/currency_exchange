@@ -190,7 +190,7 @@ gui::DropDownList::DropDownList(float x, float y, float width, float height,
 
 	this->activeElement = new gui::Button(
 		x, y, width, height,
-		&this->font, list[default_index], 14,
+		&this->font, list[default_index], 28,
 		sf::Color(255, 255, 255, 150), sf::Color(255, 255, 255, 200), sf::Color(20, 20, 20, 50),
 		sf::Color(70, 70, 70, 200), sf::Color(150, 150, 150, 200), sf::Color(20, 20, 20, 200),
 		sf::Color(255, 255, 255, 200), sf::Color(255, 255, 255, 255), sf::Color(20, 20, 20, 50)
